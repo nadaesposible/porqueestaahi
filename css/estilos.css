@@ -1,0 +1,97 @@
+body {
+    background: none #fff;
+}
+
+img {
+    border: 0;
+}
+
+#contenido {
+    position: relative;
+    width: 996px;
+    margin: auto;
+}
+
+#titulo {
+    position: absolute;
+    width: 467px;
+    top: 20px;
+    left: 15px;
+    
+}
+#comentarioTitulo {
+    position: absolute;
+    width: 347px;
+    top: 470px;
+    left: 90px;
+    display: none;
+}
+
+#blogOriginal {
+    position: absolute;
+    width: 274px;
+    top: 10px;
+    left: 470px;
+}
+#tachaduraBlogOriginal {
+    position: absolute;
+    width: 349px;
+    top: 20px;
+    left: 420px;
+    display: none;
+}
+#comentarioBlogOriginal {
+    position: absolute;
+    width: 173px;
+    top: 200px;
+    left: 480px;
+    display: none;
+}
+
+#blogRevisado {
+    position: absolute;
+    width: 230px;
+    top: 200px;
+    left: 680px;
+}
+#tachaduraBlogRevisado {
+    position: absolute;
+    width: 349px;
+    top: 230px;
+    left: 640px;
+    display: none;
+}
+#comentarioBlogRevisado {
+    position: absolute;
+    width: 202px;
+    top: 00px;
+    left: 760px;
+    display: none;
+}
+
+#libro {
+    position: absolute;
+    width: 251px;
+    top: 400px;
+    left: 470px;
+}
+#tachaduraLibro {
+    position: absolute;
+    width: 349px;
+    top: 450px;
+    left: 420px;
+    display: none;
+}
+#comentarioLibro {
+    position: absolute;
+    width: 241px;
+    top: 460px;
+    left: 720px;
+    display: none;
+}
+
+
+
+
+
+
